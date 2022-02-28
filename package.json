@@ -1,0 +1,29 @@
+{
+  "name": "employee_tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "run test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuyHHV/Employee_Tracker.git"
+  },
+  "keywords": [
+    "employee",
+    "sql"
+  ],
+  "author": "Huy Vo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuyHHV/Employee_Tracker/issues"
+  },
+  "homepage": "https://github.com/HuyHHV/Employee_Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3"
+  }
+}
